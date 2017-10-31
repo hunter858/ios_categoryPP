@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ios_categoryPP"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "ios_categoryPP by author pengchao "
 
   # This description is used to generate tags and improve search results.
