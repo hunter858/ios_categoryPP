@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint ios_category.podspec' to ensure this is a
+#  Be sure to run `pod spec lint ios_categoryPP.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
@@ -16,17 +16,17 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ios_categoryPP"
-  s.version      = "0.0.1"
-  s.summary      = "描述信息 15字 -15字 -15字 -15字 -15字 -15字 -15字 -15字"
+  s.version      = "0.0.5"
+  s.summary      = "ios_categoryPP by author pengchao "
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "卧槽，非要100字才可以吗， 卧槽，非要100字才可以吗， 卧槽，非要100字才可以吗 卧槽，非要100字才可以吗"
+  s.description  = "ios_categoryPP 卧槽，非要100字才可以吗， 卧槽，非要100字才可以吗， 卧槽，非要100字才可以吗， 卧槽"
 
-  s.homepage     = "https://github.com/hunter858/ios_categoryPP.git"
+  s.homepage     = "https://github.com/hunter858/ios_categoryPP"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/hunter858/ios_categoryPP.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/hunter858/ios_categoryPP.git", :tag => "0.0.5" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
